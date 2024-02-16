@@ -1,0 +1,7 @@
+{
+  "name": "sheetsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
